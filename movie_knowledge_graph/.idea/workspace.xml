@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa658994-a27f-44ee-a3c0-76143e781253" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/KBQA/patternREfO/data/actorName.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/KBQA/patternREfO/data/get_dict.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/KBQA/patternREfO/data/movieName.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/KBQA/patternREfO/get_dict.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/KBQA/patternREfO/query.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/KBQA/patternREfO/utils/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/KBQA/patternREfO/utils/rules.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/KBQA/patternREfO/utils/word_tagging.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/baidu_baike/baidu_baike/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/baidu_baike/baidu_baike/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/baidu_baike/baidu_baike/middlewares.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/baidu_baike/baidu_baike/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/baidu_baike/baidu_baike/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/baidu_baike/baidu_baike/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/baidu_baike/baidu_baike/spiders/baidu_baike.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/baidu_baike/scrapy.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/craw_without_spider/mysql/creat_sql.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/craw_without_spider/mysql/help_mysql.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/craw_without_spider/utils/basic_info.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/craw_without_spider/utils/craw.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/craw_without_spider/utils/kg_movie_movie.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/hudong_baike/hudong_baike/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/hudong_baike/hudong_baike/creat_sql.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/hudong_baike/hudong_baike/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/hudong_baike/hudong_baike/middlewares.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/hudong_baike/hudong_baike/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/hudong_baike/hudong_baike/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/hudong_baike/hudong_baike/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/hudong_baike/hudong_baike/spiders/hudong_baike.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/hudong_baike/scrapy.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/news_spider/news/__init__" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/news_spider/news_spider/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/news_spider/news_spider/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/news_spider/news_spider/middlewares.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/news_spider/news_spider/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/news_spider/news_spider/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/news_spider/news_spider/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/news_spider/news_spider/spiders/huxiu_spider.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/news_spider/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/news_spider/scrapy.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/weixin_spider/creat_mysql.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/weixin_spider/scrapy.cfg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/weixin_spider/weixin_spider/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/weixin_spider/weixin_spider/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/weixin_spider/weixin_spider/middlewares.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/weixin_spider/weixin_spider/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/weixin_spider/weixin_spider/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/weixin_spider/weixin_spider/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/craw/weixin_spider/weixin_spider/spiders/weixin_spiders.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/deepdive/udf/baidu_baike/baidu_baike/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/deepdive/udf/baidu_baike/baidu_baike/items.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/deepdive/udf/baidu_baike/baidu_baike/middlewares.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/deepdive/udf/baidu_baike/baidu_baike/pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/deepdive/udf/baidu_baike/baidu_baike/settings.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/deepdive/udf/baidu_baike/baidu_baike/spiders/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/deepdive/udf/baidu_baike/baidu_baike/spiders/baidu_baike.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ie/deepdive/udf/baidu_baike/scrapy.cfg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic_search/elasticsearch/utils/get_ac_attr.py" afterPath="$PROJECT_DIR$/semantic_search/elasticsearch/utils/get_ac_attr.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic_search/elasticsearch/utils/get_json.py" afterPath="$PROJECT_DIR$/semantic_search/elasticsearch/utils/get_json.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic_search/elasticsearch/utils/get_total_val.py" afterPath="$PROJECT_DIR$/semantic_search/elasticsearch/utils/get_total_val.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic_search/elasticsearch/utils/insert.py" afterPath="$PROJECT_DIR$/semantic_search/elasticsearch/utils/insert.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic_search/elasticsearch/utils/views.py" afterPath="$PROJECT_DIR$/semantic_search/elasticsearch/utils/views.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>commands</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/semantic_search/elasticsearch/utils/get_json.py" />
+        <option value="$PROJECT_DIR$/semantic_search/elasticsearch/data/attr_mapping.txt" />
+        <option value="$PROJECT_DIR$/semantic_search/elasticsearch/utils/get_ac_attr.py" />
+        <option value="$PROJECT_DIR$/semantic_search/elasticsearch/utils/get_total_val.py" />
+        <option value="$PROJECT_DIR$/semantic_search/elasticsearch/utils/insert.py" />
+        <option value="$PROJECT_DIR$/semantic_search/elasticsearch/utils/views.py" />
+        <option value="$PROJECT_DIR$/ie/KBQA/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="403" />
+    <option name="y" value="67" />
+    <option name="width" value="1265" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Z_knowledge_graph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Z_knowledge_graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Z_knowledge_graph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Z_knowledge_graph" type="462c0819:PsiDirectoryNode" />
+              <item name="ie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Z_knowledge_graph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Z_knowledge_graph" type="462c0819:PsiDirectoryNode" />
+              <item name="ie" type="462c0819:PsiDirectoryNode" />
+              <item name="deepdive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Z_knowledge_graph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Z_knowledge_graph" type="462c0819:PsiDirectoryNode" />
+              <item name="ie" type="462c0819:PsiDirectoryNode" />
+              <item name="deepdive" type="462c0819:PsiDirectoryNode" />
+              <item name="udf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Z_knowledge_graph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Z_knowledge_graph" type="462c0819:PsiDirectoryNode" />
+              <item name="ie" type="462c0819:PsiDirectoryNode" />
+              <item name="KBQA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Z_knowledge_graph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Z_knowledge_graph" type="462c0819:PsiDirectoryNode" />
+              <item name="semantic_search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Z_knowledge_graph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Z_knowledge_graph" type="462c0819:PsiDirectoryNode" />
+              <item name="semantic_search" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Z_knowledge_graph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Z_knowledge_graph" type="462c0819:PsiDirectoryNode" />
+              <item name="semantic_search" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ie" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa658994-a27f-44ee-a3c0-76143e781253" name="Default" comment="" />
+      <created>1543393092146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543393092146</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16473189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43870968" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/semantic_search/elasticsearch/data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semantic_search/elasticsearch/utils/get_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semantic_search/elasticsearch/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semantic_search/elasticsearch/utils/get_ac_attr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#134#152#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semantic_search/elasticsearch/utils/get_total_val.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding>
+            <element signature="e#188#202#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semantic_search/elasticsearch/utils/query_cmd.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semantic_search/elasticsearch/utils/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6088">
+          <caret line="52" column="47" lean-forward="true" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semantic_search/elasticsearch/utils/insert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="e#66#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/struct_to_rdf/complete_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/deepdive/udf/baidu_baike/baidu_baike/spiders/baidu_baike.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/deepdive/udf/get_actor_movie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/deepdive/udf/nlp_markup.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KBQA/patternREfO/utils/rules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/struct_to_rdf/clean_actor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/struct_to_rdf/clean_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/struct_to_rdf/get_ttl.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/deepdive/udf/extract_play_features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#38#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/deepdive/udf/map_actor_mention.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#38#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KBQA/patternREfO/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/example_d2rq.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/deepdive/deepdive.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/deepdive/start_posql.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semantic_search/elasticsearch/data/attr_mapping.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/deepdive/input/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/KBQA/jena_sparql_endpoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="e#75#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/example_REfO_KBQA.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirement.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/KBQA/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="110" column="0" lean-forward="true" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/KBQA/question2sparql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ie/deepdive/db.url">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

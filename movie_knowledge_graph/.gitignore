@@ -1,0 +1,12 @@
+KBQA/actorName.txt 
+KBQA/movieName.txt
+*.json
+*.pyc
+semantic_search/elasticsearch/data/*.txt
+semantic_search/elasticsearch/data/attr_ac.pkl 
+ie/deepdive/udf/bazaar/*
+ie/deepdive/*.txt
+ie/deepdive/run/*
+ie/deepdive/*.csv
+*.txt
+*.csv
